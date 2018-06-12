@@ -1,0 +1,20 @@
+/*Faith Batt 2017*/
+
+body {
+    background-color: lightgreen;
+}
+#header { 
+background-color: green;}
+
+#footer {
+	background-color: green;
+}
+#container {
+	background-color: beige;
+	width: 800px;
+	margin: auto;
+}
+#content {
+	background-color: cornsilk;
+}
+
